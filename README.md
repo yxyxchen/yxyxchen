@@ -1,14 +1,7 @@
-- I am a Ph.D. candidate in Cognitive Science at Boston Univerisity. 
+- I am a Ph.D. researcher in an interdisciplinary field (Neuroeconomics) and a freelance data scientist. 
 
-- I study:
-  - ✨ Generative models of human behavior
-  - ✨ Quantitative methods
-  - ✨ Individual differences
-  - ✨ Everyday decision-making
-  
-- In spare time, I enjoy:
-  - Learning mathematics and coding for fun 
-  - Searching for the next good read 
-  - Design with eye-pleasing colors
+- At work, I build human-like reinforcement learning models and develop tools that automate large-scale modeling analysis and data collection.
+
+- In my free time, I enjoy learning mathematics/coding for fun, searching for the next good read, and shopping stationery with eye-pleasing colors. 
 
 
