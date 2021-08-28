@@ -1,4 +1,4 @@
-- I am a Ph.D. researcher in an interdisciplinary field (Neuroeconomics) and a freelance data scientist. 
+- I am a Ph.D. researcher in human behavior and a freelance data scientist. 
 
 - At work, I build human-like reinforcement learning models and develop tools that automate large-scale modeling analysis and data collection.
 
